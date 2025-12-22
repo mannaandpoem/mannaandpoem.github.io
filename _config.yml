@@ -93,6 +93,8 @@ pagination_dir: page
 include:
 exclude:
 ignore:
+skip_render:
+  - 'css/**'
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
