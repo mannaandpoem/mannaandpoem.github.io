@@ -1,35 +1,46 @@
 ---
-title: 👋 欢迎
+title: 👋 Hello, World!
 date: 2025-12-23 10:00:00
 tags:
-  - 关于
+  - Welcome
 categories:
   - 随笔
 ---
 
-欢迎来到我的技术博客！
+> **Algorithm Engineer @ Tencent** | **Open Source Enthusiast**
+
+欢迎来到我的技术博客！Welcome to my tech blog!
 
 <!-- more -->
 
-## 关于我
+### 🌟 Open Source
 
-我是**梁新兵 (Xinbing Liang)**，目前在腾讯担任青云计划算法工程师，正在构建混元 2.0 LLM。
+Contributing to **100k+ Stars** in AI Agent ecosystems:
 
-在开源领域，我参与的项目累计获得 **100k+ GitHub Stars**：
-- [**OpenManus**](https://github.com/FoundationAgents/OpenManus) (51.4k ⭐) - 创始人  
-- [**MetaGPT**](https://github.com/FoundationAgents/MetaGPT) (61.3k ⭐) - 核心贡献者
+- **[OpenManus](https://github.com/FoundationAgents/OpenManus)** (Founder)  
+  *An open and powerful AI Agent framework.* `51.4k ⭐`
+  
+- **[MetaGPT](https://github.com/FoundationAgents/MetaGPT)** (Core Contributor)  
+  *The Multi-Agent Framework.* `61.3k ⭐`
 
-## 📌 更多信息
+### 💫 About Me
 
-完整的个人简介请访问：
-- 📄 [关于页面](/about/)
-- 🔗 [GitHub Profile](https://github.com/mannaandpoem)
+I focus on **Large Language Models (LLM)** and **AI Agents**.
 
-## 💭 我的愿景
-
-> **正经版：** "构建更智能的世界，让 AI 真正理解人类"  
-> **搞笑版：** "阻止 AI 毁灭世界" 🤖
+- 🔭 Working on **Hunyuan 2.0 LLM** at **Tencent** (Qingyun Program).
+- 🎓 Master's student at **East China Normal University** (SE, 2023).
+- 💭 Vision: *"Building a smarter world where AI truly understands humanity."*  
+  *(...or just stopping it from destroying us 🤖)*
 
 ---
 
-**让我们一起探索 AI 的无限可能！** 🚀
+### 🚀 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/mannaandpoem" style="text-decoration: none;">💼 GitHub</a> &nbsp;|&nbsp; 
+  <a href="mailto:mannaandpoem@gmail.com" style="text-decoration: none;">📧 Email</a> &nbsp;|&nbsp; 
+  <a href="https://www.zhihu.com/people/liang-xin-bing-13" style="text-decoration: none;">📚 Zhihu</a> &nbsp;|&nbsp; 
+  <a href="https://x.com/manna56749964" style="text-decoration: none;">🐦 Twitter/X</a>
+</p>
+
+更多详细介绍请访问 [关于我](/about/) 页面。
