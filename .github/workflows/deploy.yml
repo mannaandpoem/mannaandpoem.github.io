@@ -23,10 +23,10 @@ jobs:
     - name: Setup pnpm
       uses: pnpm/action-setup@v2
       with:
-        version: 10
-    
+        version: latest  # 使用最新版 pnpm
+
     - name: Install Dependencies
-      run: pnpm install
+      run: pnpm install --no-frozen-lockfile # 避免 lockfile 不匹配导致的失败
     
     - name: Clean
       run: pnpm run clean
