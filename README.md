@@ -281,9 +281,10 @@ Butterfly 主题支持多种评论系统：
 
 ```yaml
 social:
-  fab fa-github: https://github.com/yourusername || Github
-  fas fa-envelope: mailto:your-email@example.com || Email
-  fab fa-weixin: javascript:void(0) || 微信
+  fab fa-github: https://github.com/mannaandpoem || Github
+  fas fa-envelope: mailto:mannaandpoem@gmail.com || Email
+  fab fa-zhihu: https://www.zhihu.com/people/liang-xin-bing-13 || 知乎
+  fab fa-x-twitter: https://x.com/manna56749964 || X
 ```
 
 ## 🐛 常见问题
@@ -334,9 +335,11 @@ MIT License
 
 ## 📮 联系方式
 
-- Email: your-email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
-- 博客: https://yourusername.github.io
+- Email: mannaandpoem@gmail.com
+- GitHub: [@mannaandpoem](https://github.com/mannaandpoem)
+- 知乎: [梁新兵](https://www.zhihu.com/people/liang-xin-bing-13)
+- X (Twitter): [@manna56749964](https://x.com/manna56749964)
+- 博客: https://mannaandpoem.github.io
 
 ## 🙏 致谢
 

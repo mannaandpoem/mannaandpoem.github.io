@@ -5,25 +5,84 @@ type: "about"
 comments: false
 ---
 
-## 👋 你好，我是梁新兵
+## 👋 你好，我是梁新兵 (Xinbing Liang)
 
-欢迎来到我的个人博客！这里是我记录生活、分享技术的小天地。
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="https://avatars.githubusercontent.com/mannaandpoem" alt="Xinbing Liang" style="border-radius: 50%; width: 150px; height: 150px;">
+</div>
 
-### 关于本站
+大家好，我是梁新兵。
 
-本站使用 Hexo + Butterfly 主题搭建，托管在 GitHub Pages 上。
+### 💭 我的梦想
 
-### 联系方式
+> 🎩 **正经版**
+> "构建更智能的世界，让 AI 真正理解人类"
 
-- 📧 Email: your-email@example.com
-- 💼 GitHub: https://github.com/yourusername
-- 📝 博客: https://yourusername.github.io
+> 🤖 **搞笑版**
+> "阻止 AI 毁灭世界"
 
-### 技术栈
+### 🌟 个人成就
 
-- 前端开发
-- Python 开发
-- 数据分析
-- 机器学习
+**100k+ GitHub Stars**:
 
-感谢你的访问！
+*   [**OpenManus**](https://github.com/FoundationAgents/OpenManus) **(51.4k ⭐)** - 创始人
+*   [**MetaGPT**](https://github.com/FoundationAgents/MetaGPT) **(61.3k ⭐)** - 核心贡献者
+
+### 💼 职业经历
+
+**腾讯青云计划算法工程师**，正在构建 **混元 2.0 LLM**。
+
+### 🎓 教育背景
+
+梁新兵，华东师范大学软件工程学院2023级硕士研究生，专注于大语言模型与AI智能体领域的研究。在项目开发和学术实践方面积累了丰富经验，致力于推动相关技术的开源与普及。
+
+---
+
+## 👋 Hello, I'm Xinbing Liang
+
+Hi, I'm Xinbing Liang.
+
+### 💭 My Vision
+
+> 🎩 **Serious Version**
+> "Building a smarter world where AI truly understands humanity"
+
+> 🤖 **Fun Version**
+> "Stopping AI from destroying the world"
+
+### 🌟 Achievements
+
+**100k+ GitHub Stars**:
+
+*   [**OpenManus**](https://github.com/FoundationAgents/OpenManus) **(51.4k ⭐)** - Founder
+*   [**MetaGPT**](https://github.com/FoundationAgents/MetaGPT) **(61.3k ⭐)** - Core Contributor
+
+### 💼 Professional Experience
+
+**Algorithm Engineer (Tencent Qingyun Program)**, currently building **Hunyuan 2.0 LLM**.
+
+### 🎓 Education
+
+Master's student (Class of 2023) at the School of Software Engineering, **East China Normal University**, focusing on Large Language Models and AI Agents. With rich experience in project development and academic practice, dedicated to promoting open-source technologies and their adoption.
+
+---
+
+### 🔧 技术栈 | Tech Stack
+
+- 🤖 **Core**: Large Language Models (LLM), AI Agents, Multi-Agent Systems
+- 💻 **Engineering**: Python, Algorithm Engineering, Distributed Systems
+- 🔍 **Research**: Natural Language Processing (NLP), Reasoning
+
+### 📫 保持联系 | Keep in Touch
+
+- 📧 Email: [mannaandpoem@gmail.com](mailto:mannaandpoem@gmail.com)
+- 💼 GitHub: [@mannaandpoem](https://github.com/mannaandpoem)
+- 📚 知乎: [梁新兵](https://www.zhihu.com/people/liang-xin-bing-13)
+- 🐦 X (Twitter): [@manna56749964](https://x.com/manna56749964)
+
+---
+
+<p style="text-align: center; color: #999;">
+  感谢你的访问！欢迎与我交流讨论 AI、LLM 和智能体相关的话题 🚀<br>
+  Thank you for visiting! Feel free to reach out to discuss AI, LLM, and agent-related topics.
+</p>

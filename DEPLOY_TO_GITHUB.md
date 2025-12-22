@@ -201,7 +201,9 @@ author: 你的名字
 ```yaml
 social:
   fab fa-github: https://github.com/mannaandpoem || Github
-  fas fa-envelope: mailto:your-email@example.com || Email
+  fas fa-envelope: mailto:mannaandpoem@gmail.com || Email
+  fab fa-zhihu: https://www.zhihu.com/people/liang-xin-bing-13 || 知乎
+  fab fa-x-twitter: https://x.com/manna56749964 || X
 ```
 
 ### 更换头像

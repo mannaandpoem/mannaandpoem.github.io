@@ -50,7 +50,7 @@ categories:
 
 在 GitHub 上创建一个新仓库，命名为 `yourusername.github.io`
 
-例如：如果你的 GitHub 用户名是 `liangxinbing`，则仓库名为 `liangxinbing.github.io`
+例如：如果你的 GitHub 用户名是 `mannaandpoem`，则仓库名为 `mannaandpoem.github.io`
 
 ### 2. 修改配置
 
@@ -186,9 +186,10 @@ menu:
 
 ```yaml
 social:
-  fab fa-github: https://github.com/yourusername || Github
-  fas fa-envelope: mailto:your-email@example.com || Email
-  fab fa-weixin: javascript:void(0) || 微信
+  fab fa-github: https://github.com/mannaandpoem || Github
+  fas fa-envelope: mailto:mannaandpoem@gmail.com || Email
+  fab fa-zhihu: https://www.zhihu.com/people/liang-xin-bing-13 || 知乎
+  fab fa-x-twitter: https://x.com/manna56749964 || X
 ```
 
 ### 修改头像

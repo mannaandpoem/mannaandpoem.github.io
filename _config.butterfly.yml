@@ -48,8 +48,9 @@ code_blocks:
 #   icon: link || the description || color
 social:
   fab fa-github: https://github.com/mannaandpoem || Github || '#24292e'
-  fas fa-envelope: mailto:your-email@example.com || Email || '#4a7dbe'
-  fab fa-weixin: javascript:void(0) || 微信 || '#09bb07'
+  fas fa-envelope: mailto:mannaandpoem@gmail.com || Email || '#4a7dbe'
+  fab fa-zhihu: https://www.zhihu.com/people/liang-xin-bing-13 || 知乎 || '#0084ff'
+  fab fa-x-twitter: https://x.com/manna56749964 || X || '#000000'
 
 # --------------------------------------
 # Image Settings
@@ -58,7 +59,7 @@ social:
 favicon: /img/favicon.png
 
 avatar:
-  img: https://avatars.githubusercontent.com/u/1?v=4
+  img: https://avatars.githubusercontent.com/mannaandpoem
   effect: false
 
 # Disable all banner images
@@ -286,15 +287,15 @@ aside:
     category: true
   card_author:
     enable: true
-    description:
+    description: 构建更智能的世界，让 AI 真正理解人类
     button:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/mannaandpoem
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: 欢迎来到我的技术博客！分享 AI、LLM 和智能体相关的思考与实践 🚀
   card_recent_post:
     enable: true
     # If set 0 will show all
