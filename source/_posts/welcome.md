@@ -7,9 +7,7 @@ categories:
   - 随笔
 ---
 
-> **Algorithm Engineer @ Tencent** | **Open Source Enthusiast**
-
-欢迎来到我的技术博客！Welcome to my tech blog!
+Welcome to my tech blog!
 
 <!-- more -->
 
@@ -27,8 +25,7 @@ Contributing to **100k+ Stars** in AI Agent ecosystems:
 
 I focus on **Large Language Models (LLM)** and **AI Agents**.
 
-- 🔭 Working on **Hunyuan 2.0 LLM** at **Tencent** (Qingyun Program).
-- 🎓 Master's student at **East China Normal University** (SE, 2023).
+- 🎓 Master's student at **East China Normal University**.
 - 💭 Vision: *"Building a smarter world where AI truly understands humanity."*  
   *(...or just stopping it from destroying us 🤖)*
 
@@ -43,4 +40,4 @@ I focus on **Large Language Models (LLM)** and **AI Agents**.
   <a href="https://x.com/manna56749964" style="text-decoration: none;">🐦 Twitter/X</a>
 </p>
 
-更多详细介绍请访问 [关于我](/about/) 页面。
+For more details, please visit my [About](/about/) page.
