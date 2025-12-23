@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>我的个人博客</title>
+  
+  <subtitle>记录生活，分享技术</subtitle>
+  <link href="https://mannaandpoem.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://mannaandpoem.github.io/"/>
+  <updated>2025-12-23T16:17:47.151Z</updated>
+  <id>https://mannaandpoem.github.io/</id>
+  
+  <author>
+    <name>梁新兵</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>👋 Hello, World!</title>
+    <link href="https://mannaandpoem.github.io/2025/12/23/welcome/"/>
+    <id>https://mannaandpoem.github.io/2025/12/23/welcome/</id>
+    <published>2025-12-23T02:00:00.000Z</published>
+    <updated>2025-12-23T16:17:47.151Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to my tech blog!</p><span id="more"></span><h3 id="🌟-Open-Source"><a href="#🌟-Open-Source" class="headerlink" title="🌟 Open Source"></a>🌟 Open Source</h3><p>Contributing to <strong>100k+ Stars</strong> in AI Agent ecosystems:</p><ul><li><p><strong><a href="https://github.com/FoundationAgents/OpenManus">OpenManus</a></strong> (Founder)<br><em>An open and powerful AI Agent framework.</em> <code>51.4k ⭐</code></p></li><li><p><strong><a href="https://github.com/FoundationAgents/MetaGPT">MetaGPT</a></strong> (Core Contributor)<br><em>The Multi-Agent Framework.</em> <code>61.3k ⭐</code></p></li></ul><h3 id="💫-About-Me"><a href="#💫-About-Me" class="headerlink" title="💫 About Me"></a>💫 About Me</h3><p>I focus on <strong>Large Language Models (LLM)</strong> and <strong>AI Agents</strong>.</p><ul><li>🎓 Master’s student at <strong>East China Normal University</strong>.</li><li>💭 Vision: <em>“Building a smarter world where AI truly understands humanity.”</em><br><em>(…or just stopping it from destroying us 🤖)</em></li></ul><hr><h3 id="🚀-Connect-with-Me"><a href="#🚀-Connect-with-Me" class="headerlink" title="🚀 Connect with Me"></a>🚀 Connect with Me</h3><p align="left">  <a href="https://github.com/mannaandpoem" style="text-decoration: none;">💼 GitHub</a> &nbsp;|&nbsp;   <a href="mailto:mannaandpoem@gmail.com" style="text-decoration: none;">📧 Email</a> &nbsp;|&nbsp;   <a href="https://www.zhihu.com/people/liang-xin-bing-13" style="text-decoration: none;">📚 Zhihu</a> &nbsp;|&nbsp;   <a href="https://x.com/manna56749964" style="text-decoration: none;">🐦 Twitter/X</a></p><p>For more details, please visit my <a href="/about/">About</a> page.</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;Welcome to my tech blog!&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://mannaandpoem.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="Welcome" scheme="https://mannaandpoem.github.io/tags/Welcome/"/>
+    
+  </entry>
+  
+</feed>
